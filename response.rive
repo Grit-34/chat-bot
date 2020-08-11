@@ -1,0 +1,31 @@
++(hi|hello|hey|namaste)
+-hi,how can I help you
+-hello
+
++(how|are) (are|you) (you|fine|ok|good|doing) [doing|good]
+-i am fine
+-i am doing good
+
++(who|what) (are|is) (you|your) [name]
+-i am chatbot.my duty is to create awareness on plasma donation and plasma therapy
+
++can i (become|donate) plasma [donor]
+-yeah sure only if you are a fully recovered person from COVID-19 and if you are eligible to donate blood then you will be eligible to donate your plasma
+
++what is plasma therapy
+-through plasma therapy antibodies present in plasma of fully recovered person from COVID-19 helps figthing against corona virus which may save lives.
+
++what is plasma
+-plasma is a liquid part of blood which contains antibodies
+
++(where|i) (can|want) (i|to) donate plasma
+-there are many organizations and donation centres where you can donate plasma or else you can register swechaap.org/plasma in this site
+
++(will|do|is) (there|i) (any|be|face) [any] problem [for me] if i donate plasma
+-no there will not be any problem for you.you just need to take protein food daily
+
++(will|is) plasma therapy (saves|effective|works) [us] [for sure]
+-as of know this is the only way which treats with minimal side effects and gives a little hope,there is possibility of saving lives
+
++*
+-sorry i didn't get you,please reframe your question
